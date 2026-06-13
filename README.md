@@ -83,10 +83,19 @@ After registering a user, set `is_admin = 1` on that user's row in the `users` t
 
 ## 📸 Screenshots
 
-![My books](<My books.PNG>)
-![Add new book](<Add new book.PNG>)
-![Discover books](<Discover books.PNG>) 
-![Home page](<Home page.PNG>)
+## 📸 Screenshots
+
+### Home Page
+![Home Page](Screenshot/Home%20page.PNG)
+
+### Discover Books
+![Discover Books](Screenshot/Discover%20books.PNG)
+
+### My Books
+![My Books](Screenshot/My%20books.PNG)
+
+### Add New Book
+![Add New Book](Screenshot/Add%20new%20book.PNG)
 
 ## 📌 Status
 
