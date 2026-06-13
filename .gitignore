@@ -1,0 +1,12 @@
+# Local environment
+/src/config.local.php
+
+# Uploaded files (user content)
+/public/uploads/books/*
+!/public/uploads/books/.gitkeep
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
