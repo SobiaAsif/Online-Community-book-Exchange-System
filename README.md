@@ -83,8 +83,6 @@ After registering a user, set `is_admin = 1` on that user's row in the `users` t
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home Page
 ![Home Page](Screenshot/Home%20page.PNG)
 
